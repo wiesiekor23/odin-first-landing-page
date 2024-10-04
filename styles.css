@@ -1,5 +1,5 @@
 body {
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-family:'Courier New', Courier, monospace;
     display: flex;
     font-size: 75%;
 }
@@ -118,4 +118,28 @@ a {
 .paragraph {
     text-align: center;
     color: rgb(54, 54, 54);
+}
+
+.second-part {
+    display: flex;
+    flex-direction: column;
+    background-color: #e5e7eb;
+}
+
+.quote {
+    font-size: 24px;
+    font-style: italic;
+    font-weight: lighter;
+    padding-left: 224px;
+    padding-right: 224px;
+    padding-top: 64px;
+    color: #1F2937;
+}
+
+.thor {
+    padding-right: 240px;
+    text-align: end;
+    font-size: 130%;
+    font-weight: bold;
+    padding-bottom: 64px;
 }
