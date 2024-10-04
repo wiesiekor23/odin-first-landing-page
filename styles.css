@@ -181,3 +181,11 @@ a {
     border: 2px solid #f9faf8;
     padding: 4px 16px;
 }
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #e5e7eb;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
