@@ -103,6 +103,13 @@ a {
     padding-bottom: 48px;
 }
 
+.button:hover,
+.right-inside:hover {
+    transition-duration: 0.4s;
+    background-color: azure;
+    color: #3882f6;
+}
+
 .card {
     display: flex;
     flex-direction: column;
